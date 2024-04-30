@@ -10,3 +10,22 @@ body {
     background-color:#E0E2E8;
     font-family: "Poppins", sans-serif;
 }
+
+header {
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 18.5rem;
+}
+
+.menu {
+  width: 30%;
+  height: 80%;
+  /*display: none;*/
+}
+
+.logo {
+  width: 30%;
+  height: 80%;
+}
