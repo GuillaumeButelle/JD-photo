@@ -19,13 +19,24 @@ header {
   height: 18.5rem;
 }
 
+.hidden {
+  display: none;
+}
+
 .menu {
   width: 30%;
   height: 80%;
-  /*display: none;*/
 }
 
 .logo {
   width: 30%;
   height: 80%;
+}
+
+.burger {
+  position: absolute;
+  top: 0rem;
+  left: 0rem; 
+  width: 12.5rem;
+  height: 100vh;
 }
