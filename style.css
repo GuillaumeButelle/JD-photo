@@ -29,7 +29,7 @@ a {
 }
 
 .menu a:hover {
-  background-color: #B0C0D4;
+  color: #5DA5B3;
   text-decoration: underline;
 }
 
@@ -217,10 +217,10 @@ a {
 
 @media only screen and (min-width: 1400px) {
   body {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   .logo {
-    width: 20%;
+    width: 25%;
   }
 }
